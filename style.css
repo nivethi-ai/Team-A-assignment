@@ -27,7 +27,7 @@ body {
     padding: 10px 20px;
 }
 
-img {
+.nav-img {
     height: 10vh;
     position: relative;
     left: 20px;
@@ -88,5 +88,12 @@ li {
 }
 
 
-
+img{
+    width: 30%;
+    height: 30%;
+    border: 20px solid;
+}
+p{
+    text-align: justify;
+}
 
