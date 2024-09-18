@@ -157,7 +157,7 @@ footer {
 }
 .cnt{
     display: flex;
-    text-align: center;
+    text-align: justify;
     margin: 5vh 20vw;
     font-size: large;
     color: white;
