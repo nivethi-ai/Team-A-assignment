@@ -7,7 +7,6 @@
 
 
 body {
-    display: flex;
     flex-direction: row;
     justify-content: center;
     background: linear-gradient(135deg, #ff7e5f, #feb47b) no-repeat center / cover;
@@ -88,7 +87,7 @@ li {
 }
 
 
-img{
+.thana{
     width: 30%;
     height: 30%;
     border: 20px solid;
@@ -96,4 +95,5 @@ img{
 p{
     text-align: justify;
 }
+
 
