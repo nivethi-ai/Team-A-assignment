@@ -27,7 +27,7 @@ body {
     padding: 10px 20px;
 }
 
-img {
+.nav-img {
     height: 10vh;
     position: relative;
     left: 20px;
@@ -87,7 +87,6 @@ li {
     background: linear-gradient(135deg,  #feb47b, #ff7e5f)
 }
 
-
 footer {
     text-align: center;
     padding-top: 10px;
@@ -144,6 +143,12 @@ footer {
     font-size: 16px;
 }
 
-
-
+img{
+    width: 30%;
+    height: 30%;
+    border: 20px solid;
+}
+p{
+    text-align: justify;
+}
 
